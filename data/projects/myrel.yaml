@@ -1,0 +1,4 @@
+name: Myrel
+repo: https://github.com/Fibteq-Inc/Myrel
+tagline: Team workspace that runs OpenCode per thread in a Cloudflare Sandbox or on your own machine
+description: Open-source, self-hostable workspace where a coordinator agent turns chat requests into threads. Each thread gets its own OpenCode agent, either in a per-thread Cloudflare Sandbox or as your local OpenCode CLI through the myrel-runner, with a live checklist, approvals, project files and memory. Web, desktop and mobile apps.
